@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cat_on_sale">İndirimli Ürünler</string>
+    <string name="cat_new">Yeni Ürünler</string>
+    <string name="cat_water">Su</string>
+    <string name="cat_fruits_n_veg">Meyve &amp; Sebze</string>
+    <string name="cat_bakery">Fırın</string>
+    <string name="cat_snacks">Atıştırmalık</string>
+    <string name="cat_ice_cream">Dondurma</string>
+    <string name="cat_food">Yemek</string>
+    <string name="cat_drinks">İçecekler</string>
+    <string name="cat_fit_n_form">Fit &amp; Form</string>
+    <string name="cat_milk_n_breakfast">Süt &amp; Kahvaltılık</string>
+    <string name="cat_staple_food">Temel Gıda</string>
+    <string name="cat_personal_care">Kişisel Bakım</string>
+    <string name="cat_home_care">Ev Bakımı</string>
+    <string name="cat_home_life">Ev &amp; Yaşam</string>
+    <string name="cat_technology">Teknoloji</string>
+    <string name="cat_tobacco">Tütün Ürünleri</string>
+    <string name="cat_alcohol">Alkollü İçecekler</string>
+    <string name="cat_pets">Evcil Hayvan</string>
+    <string name="cat_baby">Bebek</string>
+    <string name="cat_sexual_health">Cinsel Sağlık</string>
+    <string name="cat_clothing">Kıyafet</string>
+</resources>

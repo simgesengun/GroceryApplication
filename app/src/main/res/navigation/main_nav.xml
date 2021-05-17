@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_nav"
+    app:startDestination="@id/homepageFragment"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <fragment
+        android:id="@+id/homepageFragment"
+        android:name="com.simgesengun.groceryapplication.fragment.HomepageFragment"
+        android:label="HomepageFragment"
+        tools:layout="@layout/fragment_homepage">
+        <action
+            android:id="@+id/to_details"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profilePageFragment"
+        android:name="com.simgesengun.groceryapplication.fragment.ProfilePageFragment"
+        android:label="fragment_profile_page"
+        tools:layout="@layout/fragment_profile_page" />
+    <fragment
+        android:id="@+id/searchPageFragment"
+        android:name="com.simgesengun.groceryapplication.fragment.SearchPageFragment"
+        android:label="fragment_search_page"
+        tools:layout="@layout/fragment_search_page" />
+    <fragment
+        android:id="@+id/promotionsPageFragment"
+        android:name="com.simgesengun.groceryapplication.fragment.PromotionsPageFragment"
+        android:label="fragment_promotions_page"
+        tools:layout="@layout/fragment_promotions_page" />
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.simgesengun.groceryapplication.fragment.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" >
+        <argument
+            android:name="category"
+            app:argType="com.simgesengun.groceryapplication.entity.Category" />
+    </fragment>
+</navigation>

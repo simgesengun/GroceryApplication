@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Knock Knock</string>
+    <string name="cat_on_sale">On Sale</string>
+    <string name="cat_new">New</string>
+    <string name="cat_water">Water</string>
+    <string name="cat_fruits_n_veg">Fruits &amp; Veg</string>
+    <string name="cat_bakery">Bakery</string>
+    <string name="cat_snacks">Snacks</string>
+    <string name="cat_ice_cream">Ice Cream"</string>
+    <string name="cat_food">Food</string>
+    <string name="cat_drinks">Soft Drinks</string>
+    <string name="cat_fit_n_form">Fit &amp; Form</string>
+    <string name="cat_milk_n_breakfast">Milk &amp; Breakfast</string>
+    <string name="cat_staple_food">Staple Food</string>
+    <string name="cat_personal_care">Personal Care</string>
+    <string name="cat_home_care">Home Care</string>
+    <string name="cat_home_life">Home &amp; Life</string>
+    <string name="cat_technology">Technology</string>
+    <string name="cat_tobacco">Tobacco</string>
+    <string name="cat_alcohol">Alcohol Drinks</string>
+    <string name="cat_pets">Pets</string>
+    <string name="cat_baby">Baby</string>
+    <string name="cat_sexual_health">Sexual Health</string>
+    <string name="cat_clothing">Clothing</string>
+</resources>
+
